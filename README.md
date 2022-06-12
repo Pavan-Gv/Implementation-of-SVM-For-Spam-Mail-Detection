@@ -8,11 +8,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.Import the required library packages.
-2. Import the dataset to operate on.
-3. Split the dataset into required segments.
-4. Predict the required output.
-5. Run the programme.
+1.Import the required library packages.<br>
+2. Import the dataset to operate on.<br>
+3. Split the dataset into required segments.<br>
+4. Predict the required output.<br>
+5. Run the programme.<br>
 
 ## Program:
 ```
